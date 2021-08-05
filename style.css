@@ -1,11 +1,23 @@
  h1 {
-    text-decoration: underline;
+    text-decoration: double underline;
     color: darkviolet;
     font-style: oblique;
+    letter-spacing: 4px;
 }
 
 img {
     width: 266px;
+    height: 380px;
+}
+
+.pics {
+    border: 2px dotted red;
+    width: 722px;
+}
+
+#pics {
+    border: 2px solid yellowgreen;
+    width: 802px;
     height: 380px;
 }
 
@@ -20,6 +32,7 @@ p {
     font-family: unset;
     text-align: left;
     font-size: 20px;
+    line-height: 27px;
 }
 
 .NB {
@@ -36,4 +49,8 @@ h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
     color: indianred v;
+}
+
+.body {
+    margin: 68px;
 }
