@@ -39,6 +39,7 @@ p {
     font-size: 25px;
     font-style: italic;
     color: purple;
+    line-height: 35px;
 }
 
 body  {
@@ -48,9 +49,32 @@ body  {
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
-    color: indianred v;
+    color: grey;
 }
 
 .body {
     margin: 68px;
+}
+
+.tattoo {
+    display: block;
+}
+
+.normal3 {
+    float: left;
+}
+
+.middle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boundary {
+    margin: 68px;
+}
+
+.NB2 {
+    margin: 0px 0px 0px 266px;
+    padding: 5px;
 }
